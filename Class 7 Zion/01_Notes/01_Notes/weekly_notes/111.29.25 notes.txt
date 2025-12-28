@@ -1,0 +1,15 @@
+How to SSH into your EC2 Instance
+Linux / Mac OS X
+• We'll learn how to SSH into your EC2 instance using Linux / Mac
+• SSH is one of the most important function. It allows you to control a
+remote machine, all using the command line.
+1ニ www EC2 Machine
+Linux
+Public IP
+
+Music
+Instances (1/2) Info in Celled Chite Actions? launch instances
+Q Find Instance by attribute or tag (case-sensitive) All states
+Name & Instance ID Instance state "| • | Status check Alarm status Availability Zone Public IPv4 DNS Public IPv4 ... Elastic IP | IPv6 IPs Monitoring 33
+Sunday Funday i-Od173deefd452ccb3 • Stopped t3.micro View alarms + us-east-1f disabled
+My Third Insta... i-0579b186f466bf1fc • Running t3.micro • 3/3 checks passec View alarms + us-east-1f ec2-3-231-210-212.co.. 3.231.210.212 disabled

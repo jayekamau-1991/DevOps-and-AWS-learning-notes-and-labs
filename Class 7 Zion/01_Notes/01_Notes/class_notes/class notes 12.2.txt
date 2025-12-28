@@ -1,0 +1,8 @@
+12.2
+S3 buckets
+
+Rob added uploads for the S3 Bucket
+
+Rob will get html file and drop it into the bucket with all of the pdfs along with pictures. he will share links from the bucket,
+
+Study Maareks SAA files on S3
